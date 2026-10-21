@@ -1,6 +1,6 @@
 # esp32-i2c-net
 
-An ESP32-S3 based I2C hub that distributes a buffered I2C bus over standard
+An ESP32-S3 based IoT data collector with buffered I2C bus over standard
 6P6C (RJ12/RJ25) cables, so multiple remote I2C nodes can be wired back to a
 single controller using cheap, keyed telephone-style patch cords. The use of
 I2C bus driver allow the connection of multiple sensor over long wires.
